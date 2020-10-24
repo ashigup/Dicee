@@ -7,7 +7,7 @@ Challenge made by The Complete 2020 Web Development Bootcamp by Angela Yu
 
 ## Deployment
 
-Deployed Website: https://ashigup.github.io/dicee/
+Deployed Website: https://ashigup.github.io/Dicee/
 
 ## Built With
 
